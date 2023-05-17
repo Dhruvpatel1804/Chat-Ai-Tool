@@ -14,7 +14,7 @@ const Home = () => {
     let openai;
     try {
       const configuration = new Configuration({
-        apiKey: "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",
+        apiKey: "YOUR-OPENAI-API-KEY",
       });
       openai = new OpenAIApi(configuration);
     } catch (error) {
