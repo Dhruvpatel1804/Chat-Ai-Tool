@@ -30,3 +30,8 @@ npm start
 2. Open your browser and visit http://localhost:3000 to access the Chat AI application.
 
 3. Engage in conversations with the AI chatbot by typing your messages in the input field and pressing Submit.
+
+![Auth System - Google Chrome 16-05-2023 16_48_29](https://github.com/Dhruvpatel1804/Chat-Ai-Tool/assets/97275086/773ab0ff-dea9-45e9-9604-46cb2a207132)
+
+
+![Auth System - Google Chrome 16-05-2023 17_43_05](https://github.com/Dhruvpatel1804/Chat-Ai-Tool/assets/97275086/0545d95f-44c1-413a-8f9a-6abc61e0f8a4)
