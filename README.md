@@ -10,7 +10,7 @@ This project is a Chat AI application based on React.js and powered by the OpenA
 **Installation**
 
 **1. Clone the repository:**
-git clone
+git clone https://github.com/Dhruvpatel1804/Chat-Ai-Tool.git
 
 **2. Install the dependencies:**
 npm install
